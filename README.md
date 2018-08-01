@@ -14,7 +14,7 @@ This is a mod for Firaxis' XCOM 2: War of the Chosen. It adds the Glitcher soldi
 ### Offense/mobility
 *Teleburst* - You switch places with your Glitch. Any enemies between you take moderate damage.
 
-*Onrush* - This turn, if you move within one tile of an enemy, it's knocked backward a small amount.
+*Onrush* - This turn, if you move within one tile of an enemy, it's knocked backward a small amount. Also usable by your Glitch.
 
 ### Defense
 *Total Recall* - If you're the victim of enemy fire, instead prevent it and return your Glitch to the tile on which you were hit.

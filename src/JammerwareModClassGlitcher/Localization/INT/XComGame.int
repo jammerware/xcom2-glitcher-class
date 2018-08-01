@@ -83,3 +83,13 @@
 +PhotoboothSoloBLines_Male="Cool"
 +PhotoboothSoloBLines_Male="Photobooth"
 +PhotoboothSoloBLines_Male="Slogan"
+
+;-------------------------------------------------------------
+; ABILITIES
+;-------------------------------------------------------------
+[Jammerware_Jgc_Ability_Glitch X2AbilityTemplate]
+LocFriendlyName="Glitch"
+LocLongDescription="Summon your Glitch. It can move and shoot normally, but it causes half damage. If it dies to enemy fire, you take 2 damage."
+LocHelpText="Summon your Glitch. It can move and shoot normally, but it causes half damage. If it dies to enemy fire, you take 2 damage."
+LocFlyOverText="Glitch"
+LocPromotionPopupText="\"\"\n\nIt's a glitchy thing, and the irony is not lost on me."
